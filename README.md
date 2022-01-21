@@ -6,10 +6,11 @@ The _**first**_ product envisioned, the features of which contribute to it's nam
 <br/>
 <br/>
 ## Specification  
+• Dimensions: 94mm x 57.6mm.
 • Constructed out of 2mm thick highly polished stainless steel.<br/>
 • Stainless steel has a melting point of 2550 deg f(1400 deg C).<br/>
 • Laser cut slots to install tamper evident _fireproof_ security straps and/or stainless steel fasteners.<br/>
-• Design of the 6-Word-Plate is compatible with BIP0038 and SLIP0038 standards;<br/>
+• Design of the 6-Word-Plate™ is compatible with BIP0038 and SLIP0038 standards;<br/>
 &nbsp;&nbsp;ergo compatiable with LEDGER®, TREZOR®, METAMASK®, Et al.<br/>
 • Encoding is permanent and requires use of a drill, a drill press is recommended.<br/>
 • Can be utilized in a Shamir's Secret Sharing.<br/>
