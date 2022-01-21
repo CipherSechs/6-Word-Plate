@@ -1,4 +1,4 @@
-# 6-Word-Plate
+# 6-Word-Plate™
 The _**first**_ product envisioned, the features of which contribute to it's namesake.<br/>
 <br/>
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; _**'Ciphers' encoded in a group of 'Six'**_
