@@ -4,7 +4,7 @@ The _**first**_ product envisioned, the features of which contribute to it's nam
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; _**'Ciphers' encoded in a group of 'Six'**_
 <br/>
 <br/>
-
+<br/>
 ## Specification  
 • Constructed out of 2mm thick highly polished stainless steel.<br/>
 • Stainless steel has a melting point of 2550 deg f(1400 deg C).<br/>
@@ -23,4 +23,8 @@ The _**first**_ product envisioned, the features of which contribute to it's nam
 <br/>
 <br/>
 ## Disclaimer
-Product and design is patent pending.
+###### All photographs and text appearing here are the exclusive property of CipherSechs™ (except where stated otherwise) and are protected under international copyright treaties. They are made available for your personal viewing enjoyment only. No images are within the Public Domain. The photographs may not be copied, reproduced, redistributed, manipulated, projected, used or altered in any way without the prior express written permission of CipherSechs™.
+<br/>
+© CipherSechs 2022<br/>
+CipherTag™, CipherSechs™ 6 Word Plate™, CipherSechs™ 12 Word Plate™, CipherCoin™ BIP38 PPPK, CipherSechs™ Legacy™<br/>
+Aforementioned Products and/or Designs are Patent Pending.
