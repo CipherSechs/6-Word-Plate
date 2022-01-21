@@ -9,7 +9,7 @@ The _**first**_ product that was envisioned, the features which contribute to it
 &nbsp;&nbsp;ergo compatiable with LEDGER®, TREZOR®, METAMASK®, Et al.<br/>
 • Encoding is permanent and requires use of a drill, a drill press is recommended.<br/>
 • Can be utilized in a Shamrir's Secret Sharing.<br/>
-• Encode 6 words. Single Side only.  Four plates are required to secure 24 Seed Words.<br/>
+• Encode 6 words. Single Side only.  Four 6-Word-Plates are required to secure 24 Seed Words.<br/>
 • Novel 3x11 method of storage of user 'cipher'(Seed Words).<br/>
 • Novel 4x10 method of storage of user 'cipher'(Seed Words).<br/>
 • Unique laser engraving process on the metal **allows user to write on the metal** to confirm their Seed Word, BIP0038, SLIP0038<br/>
