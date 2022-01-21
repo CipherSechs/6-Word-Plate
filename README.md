@@ -6,6 +6,7 @@ The _**first**_ product envisioned, the features of which contribute to it's nam
 <br/>
 <br/>
 ## Specification  
+• Consists of 4 plates.<br/>
 • Dimensions: 94mm x 57.6mm.<br/>
 • Constructed out of 2mm thick highly polished stainless steel.<br/>
 • Stainless steel has a melting point of 2550 deg f(1400 deg C).<br/>
