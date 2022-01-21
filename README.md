@@ -12,7 +12,7 @@ The _**first**_ product envisioned, the features of which contribute to it's nam
 • Design of the 6-Word-Plate is compatible with BIP0038 and SLIP0038 standards;<br/>
 &nbsp;&nbsp;ergo compatiable with LEDGER®, TREZOR®, METAMASK®, Et al.<br/>
 • Encoding is permanent and requires use of a drill, a drill press is recommended.<br/>
-• Can be utilized in a Shamrir's Secret Sharing.<br/>
+• Can be utilized in a Shamir's Secret Sharing.<br/>
 • Encode 6 words. Single Side only.  Four 6-Word-Plates are required to secure 24 Seed Words.<br/>
 • Novel 3x11 method of storage of user 'cipher'(Seed Words).<br/>
 • Novel 4x10 method of storage of user 'cipher'(Seed Words).<br/>
