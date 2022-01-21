@@ -3,6 +3,7 @@ The _**first**_ product that was envisioned, the features which contribute to it
 
 ## Specification  
 • Constructed out of 2mm thick _highly polished_ stainless steel<br/>
+• Stainless steel has a melting point of 2550 deg f(1400 deg C).<br/>
 • Laser cut slots to install tamper evident _fireproof_ security straps and/or stainless steel fasteners<br/>
 • Design of the 6-Word-Plate is compatible with BIP0038 and SLIP0038 standards; ergo compatiable with LEDGER®, TREZOR®, METAMASK®, Et al.<br/>
 • Encoding is permanent and requires use of a drill, preferably a drill press
