@@ -1,5 +1,9 @@
 # 6-Word-Plate
-The _**first**_ product that was envisioned, the features which contribute to it's namesake.
+The _**first**_ product envisioned, the features of which contribute to it's namesake.<br/>
+<br/>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; _**'Ciphers' encoded in a group of 'Six'**_
+<br/>
+<br/>
 
 ## Specification  
 • Constructed out of 2mm thick highly polished stainless steel.<br/>
