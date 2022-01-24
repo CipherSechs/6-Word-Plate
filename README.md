@@ -16,13 +16,13 @@ The _**first**_ product envisioned, the features of which contribute to it's nam
 • Encoding is permanent and requires use of a drill, a drill press is recommended.<br/>
 • Can be utilized in a Shamir's Secret Sharing.<br/>
 • Encode 6 words. Single Side only.  Four 6-Word-Plates are required to secure 24 Seed Words.<br/>
-• Novel 3x11 method of storage of user 'cipher'(Seed Words).<br/>
 • Novel 4x10 method of storage of user 'cipher'(Seed Words).<br/>
-• Unique laser engraving process on the metal **allows user to write on the metal** to confirm their Seed Word, BIP0038, SLIP0038<br/>
-&nbsp;&nbsp;numbers on the 6-Word-Plate prior to encoding.<br/>
-• User is able to mark on metal using pencil or permanent market(easily removable) to encode or retrieve Seed Words.
+• Brush or high polished finish.<br/>
 <br/>
 <br/>
+<br/>
+![PHOTO - 6-Word-Plate 02](https://user-images.githubusercontent.com/97874862/150797061-dd1c7d2a-89ce-44a5-9b72-ed1dfe1b57d5.png)
+![PHOTO - 6-Word-Plate 03](https://user-images.githubusercontent.com/97874862/150797075-2f8b9d7d-9f9f-45ba-a23e-c77980f94b19.png)
 <br/>
 ## DISCLAIMER
 ###### All photographs and text appearing here are the exclusive property of CipherSechs™ (except where stated otherwise) and are protected under international copyright treaties. They are made available for your personal viewing enjoyment only. No images are within the Public Domain. The photographs may not be copied, reproduced, redistributed, manipulated, projected, used or altered in any way without the prior express written permission of CipherSechs™.
